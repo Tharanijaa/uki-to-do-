@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: lightblue;
+    background-color: rgb(230, 173, 173);
     font-family: 'Arial', sans-serif;
     height: 100vh;
     display: flex;
@@ -19,7 +19,7 @@ body {
     h1 {
     margin-bottom: 20px;
     }
-    .input-area {
+    .inp-area {
     display: flex;
     gap: 10px;
     margin-bottom: 20px;
@@ -67,5 +67,3 @@ body {
     p#taskCounter {
     margin-top: 15px;
     font-weight: bold;
-    }
-        

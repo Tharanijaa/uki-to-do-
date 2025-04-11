@@ -1,3 +1,4 @@
+
 const taskInput = document.getElementById('taskInput');
 const priorityInput = document.getElementById('priorityInput');
 const addTaskBtn = document.getElementById('addTask');
@@ -69,5 +70,3 @@ saveTasks();
 renderTasks();
 }
 });
-
-
